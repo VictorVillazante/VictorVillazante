@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 💼 Some outstanding projects, These are housed in organizations to maintain order, the information is in my portafolio with documentation, repositories links, videos or diagrams.
+## 💼 Some outstanding projects, the information is in my portafolio with documentation, repositories links, videos or diagrams.
 
 - INFORMATION SYSTEM FOR THE MANAGEMENT OF EXTERNAL MEDICAL CONSULTATIONS FOR THIRD-LEVEL HEALTH CENTERS (Approved degree project) [spring boot, angular, flutter] https://kaleidoscopic-conkies-d406d8.netlify.app/projects/19
 - Health center project spring cloud microservices https://kaleidoscopic-conkies-d406d8.netlify.app/projects/20
